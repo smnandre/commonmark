@@ -32,4 +32,11 @@ $html = $converter->convert("```php title=\"example.php\"\necho 'Hello';\n```");
 - [Security](security.md): constrain extensions that read files.
 
 The package extends League CommonMark; it does not replace its parser or core
-syntax. Each extension is opt-in.
+syntax. Each extension is opt-in. These are League CommonMark extensions,
+not extensions for the separate Alto Markdown parser.
+
+## Package
+
+- [Changelog](https://github.com/altophp/commonmark/blob/main/CHANGELOG.md)
+- [Contributing](https://github.com/altophp/commonmark/blob/main/CONTRIBUTING.md)
+- [Support](https://github.com/altophp/commonmark/blob/main/SUPPORT.md)

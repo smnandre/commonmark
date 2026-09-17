@@ -1,0 +1,13 @@
+{
+    "parents": {
+        "extensions/code-block-title": "extensions",
+        "extensions/include": "extensions",
+        "extensions/source": "extensions",
+        "extensions/content-slicer": "extensions",
+        "extensions/heading-level": "extensions",
+        "extensions/tabs": "extensions",
+        "extensions/import": "extensions",
+        "extensions/link-rewriter": "extensions",
+        "extensions/table-of-contents": "extensions"
+    }
+}

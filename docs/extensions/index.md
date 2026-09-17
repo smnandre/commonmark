@@ -117,8 +117,10 @@ Package: `alto/commonmark-table-of-contents`
 @toc {min: 2, max: 3}
 ```
 
-The extension also assigns IDs to headings. Apply Heading Level first if the
-table of contents must use transformed levels.
+Use the documented League Heading Permalink configuration to attach matching
+HTML heading IDs. The [TOC guide](table-of-contents.md#heading-targets-and-limits)
+describes current slugging limits. Apply Heading Level first when the table
+of contents must use transformed levels.
 
 ## Present alternatives in tabs
 
